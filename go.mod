@@ -1,4 +1,4 @@
-module record-shop
+module github.com/gitalek/recordstore
 
 go 1.15
 
